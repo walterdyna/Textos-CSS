@@ -1,0 +1,38 @@
+
+        /* TEXTOS NO CSSS */
+
+h1 {
+    color: red;
+    font-size: 64px; /* tamanho da fonte */
+    font-weight: lighter;/* espesura da fonte (fina ou groça) */
+    font-family: 'Roboto', sans-serif; /*  apontamento da fonte...  */
+    font-style: italic; /* estilo da fonte, italico */
+    line-height: 50px; /* distancia entre linha */
+    letter-spacing: 10px; /* distancia entre a letra */
+    word-spacing: 40px; /* espaçamento entre as palavras */
+    text-align: center; /* alinhamento do texto (direita, esquerda, centro, juntificado) */
+    text-transform: uppercase; /* Tranforma todo texto em maiusculo */
+    text-transform: lowercase; /* Tranforma todo o texto em minusculo */
+    text-transform: capitalize; /* Somente a primeira letra em maiuscula */
+    text-decoration: underline; /* coloca uma linha em baixo (anderlaine em baixo do texto) */
+    text-decoration: overline; /* coloca uma linha em cima do texto */ 
+    text-shadow: 10px 10px 10px red; /* sombra da letra, sendo ela primeiro horizontal depoisvertical e depois o nivel de fumaça e por ultimo a cor */
+}
+
+p {
+    color: blue;
+    font-size: 30px; /* tamanho da fonte */
+    font-weight: 100; /* espesura da fonte (fina ou groça) */
+    font-family: 'Roboto', sans-serif; /*  apontamento da fonte...  */
+    font-style: italic; /* estilo da fonte, italico */
+    line-height: 50px; /* distancia entre linha */
+    letter-spacing: 10px; /* distancia entre a letra */
+    word-spacing: 40px; /* espaçamento entre as palavras */
+    text-align: center; /* alinhamento do texto (direita, esquerda, centro, juntificado) */
+    text-transform: uppercase; /* Tranforma todo texto em maiusculo */
+    text-transform: lowercase; /* Tranforma todo o texto em minusculo */
+    text-transform: capitalize; /* Somente a primeira letra em maiuscula */
+    text-decoration: underline; /* coloca uma linha em baixo (anderlaine em baixo do texto) */
+    text-decoration: overline; /* coloca uma linha em cima do texto */ 
+    text-shadow: 10px 10px 10px red; /* sombra da letra, sendo ela primeiro horizontal depoisvertical e depois o nivel de fumaça e por ultimo a cor */
+}
